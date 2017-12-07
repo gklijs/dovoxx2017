@@ -91,3 +91,6 @@ Some utility also in Spring.
 [157 minutes of Kotlin](https://www.youtube.com/watch?v=E8uk4490S3Q&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo&index=34)
 
 [Serverless Kotlin](https://www.youtube.com/watch?v=bHKQ_o3vwK4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo&index=134)
+
+---
+# What's your language to learn for 2018?
