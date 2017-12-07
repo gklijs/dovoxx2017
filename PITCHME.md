@@ -54,6 +54,7 @@ A front-end language which compiles to js but:
 
 [Highway to Elm](https://www.youtube.com/watch?v=Ofx6LFCYea0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo&index=129)
 
+---
 ## Elixir
 
 An easier way to use Erlang
@@ -64,6 +65,7 @@ Because of this it was used for the RIG instead of Rust.
 
 [RIG (Kafka data to clients by websockets)](https://www.youtube.com/watch?v=wNF51mmnsMo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo&index=161)
 
+---
 ## Cypher query language
 
 For use with Neo4J graph database.
@@ -71,6 +73,7 @@ When a lot of relations are involve din the query performs much faster then sql.
 
 [Usecase of graph database](https://www.youtube.com/watch?v=5u4hyNOh0Tc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo&index=121)
 
+---
 ## Kotlin
 
 Just a less verbose java?
